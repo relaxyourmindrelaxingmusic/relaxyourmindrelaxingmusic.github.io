@@ -11,7 +11,9 @@ I take the chance to use this first blog post to instroduce ourselves and the wo
 
 🧘 Relax Your Mind - Relaxing Music 🧘 is a Music Creator specialized in the meditation and relaxing music content.
 
-Till today we have posted the following youtube videos: 
+Till today we have posted the following:
+
+## Youtube videos: 
 
 [Relax Your Mind With Super Deep Relaxing Music for Focus, Study, Meditation and Sleep ☯](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=1&ab_channel=RelaxYourMind-RelaxingMusic)
 
@@ -49,7 +51,7 @@ Till today we have posted the following youtube videos:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/diz4TtKdhWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-And the following playlists:
+## Playlists:
 
 [Relax Your Mind Meditation & Relaxing Music With Sounds Of Nature](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b)
 
