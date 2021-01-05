@@ -30,4 +30,4 @@ Github: https://github.com/relaxyourmindrelaxingmusic
 
 ### Contact me
 
-[email@domain.com](mailto:relaxyourmindrelaxingmusic@gmail.com)
+[relaxyourmindrelaxingmusic@gmail.com](mailto:relaxyourmindrelaxingmusic@gmail.com)
