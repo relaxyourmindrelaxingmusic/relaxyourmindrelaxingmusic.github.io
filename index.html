@@ -2,12 +2,15 @@
 layout: default
 ---
 
+<!-- Subscrive Button -->
+<div class="g-ytsubscribe" data-channelid="UCMcqkxvaRHYSMn8RkLq_E-A" data-layout="full" data-count="default"></div>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      
       <div class="entry">
         {{ post.excerpt }}
       </div>
@@ -15,4 +18,6 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+  
+   <script src="https://apis.google.com/js/platform.js"></script>
 </div>
