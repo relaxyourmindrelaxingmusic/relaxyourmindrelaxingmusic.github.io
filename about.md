@@ -16,15 +16,15 @@ tags: Relaxing music, Music, Relaxing, musique relaxante, entspannende Musik, mu
 
 ### More Information
 
-Youtube channel: https://www.youtube.com/channel/UCMcqkxvaRHYSMn8RkLq_E-A/videos
+Youtube channel: [Relax Your Mind - Relaxing Music](https://www.youtube.com/channel/UCMcqkxvaRHYSMn8RkLq_E-A/videos)
 
-Instagram: https://www.instagram.com/relaxyourmindrelaxingmusic/
+Instagram: [relaxyourmindrelaxingmusic](https://www.instagram.com/relaxyourmindrelaxingmusic/)
 
-Facebook: https://www.facebook.com/relaxyourmindrelaxingmusic/
+Facebook: [relaxyourmindrelaxingmusic](https://www.facebook.com/relaxyourmindrelaxingmusic/)
 
-Twitter: https://twitter.com/rmrelaxingmusic
+Twitter: [rmrelaxingmusic](https://twitter.com/rmrelaxingmusic)
 
-Github: https://github.com/relaxyourmindrelaxingmusic
+Github: [relaxyourmindrelaxingmusic](https://github.com/relaxyourmindrelaxingmusic)
 
 
 
